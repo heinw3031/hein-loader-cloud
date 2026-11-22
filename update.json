@@ -4,21 +4,21 @@
   "force_update": true,
   "apk_url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v2.0/HEIN_LOADER.apk",
   "changelog": "Shizuku Direct Inject + Loader & Files Auto-Update",
-  "files_version": 8,
+  "files_version": 9,
   "files": [
     {
       "name": "game_patch_4.7.0.21783.pak",
-      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v8/game_patch_4.7.0.21783.pak",
+      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v9/game_patch_4.7.0.21783.pak",
       "target_subpath": "Saved/Paks/"
     },
     {
       "name": "mod.lua",
-      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v8/mod.lua",
+      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v9/mod.lua",
       "target_subpath": "Saved/Paks/puffer_temp/Paks_Extra/"
     },
     {
       "name": "permit.cfg",
-      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v8/permit.cfg",
+      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v9/permit.cfg",
       "target_subpath": "Saved/Paks/puffer_temp/Paks_Extra/"
     }
   ]
