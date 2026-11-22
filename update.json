@@ -4,27 +4,27 @@
   "force_update": true,
   "apk_url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v2.4/HEIN_LOADER.apk",
   "changelog": "Shizuku Direct Inject + Loader & Files Auto-Update",
-  "files_version": 13,
+  "files_version": 14,
   "files": [
     {
       "name": "game_patch_4.7.0.21783.pak",
-      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v8/game_patch_4.7.0.21783.pak",
-      "size": 229817,
-      "sha256": "0029397700fbd92f824f4d81b0a72e4f9b9ba3683f4d9ed9b2ca66faa54e0aca",
+      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v13/game_patch_4.7.0.21783.pak",
+      "size": 229801,
+      "sha256": "e848b4d7f2401392a2112bb53ae921dc6599cd655b34b1c48104cfbbd39bf91a",
       "target_subpath": "Saved/Paks/"
     },
     {
       "name": "mod.lua",
-      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v8/mod.lua",
-      "size": 157334,
-      "sha256": "6bbe96614e98abaf7dd2732ff7a4ba168d4bffc298652593c52c903ed2b2efbf",
+      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v13/mod.lua",
+      "size": 1053434,
+      "sha256": "ada344db47a899c7ed91775c4d26ddd0cd7a3b4e7533a1d8f9d294d2564fe564",
       "target_subpath": "Saved/Paks/puffer_temp/Paks_Extra/"
     },
     {
       "name": "permit.cfg",
-      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v8/permit.cfg",
-      "size": 42,
-      "sha256": "e2b0067189d58b34557fb546266bc9142a34e45912ac12b6de8de3429d077cdd",
+      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v13/permit.cfg",
+      "size": 37,
+      "sha256": "9c4a85e172d3eef099845c3ff425bd40f153938134aa207a3fc17e5d95578ae4",
       "target_subpath": "Saved/Paks/puffer_temp/Paks_Extra/"
     }
   ]
