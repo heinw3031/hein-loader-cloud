@@ -1,8 +1,8 @@
 {
-  "app_version_code": 4,
-  "app_version_name": "2.2",
+  "app_version_code": 5,
+  "app_version_name": "2.3",
   "force_update": true,
-  "apk_url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v2.2/HEIN_LOADER.apk",
+  "apk_url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v2.3/HEIN_LOADER.apk",
   "changelog": "Shizuku Direct Inject + Loader & Files Auto-Update",
   "files_version": 12,
   "files": [
@@ -17,7 +17,7 @@
       "name": "mod.lua",
       "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v12/mod.lua",
       "size": 1048075,
-      "sha256": "4c2d277aa6a76fd02ecf56ca7d3dd5d6365127198775a416fde11f8be3aa3554",
+      "sha256": "4c2d277a6a76fd02ecf56ca7d3dd5d6365127198775a416fde11f8be3aa3554",
       "target_subpath": "Saved/Paks/puffer_temp/Paks_Extra/"
     },
     {
