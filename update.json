@@ -1,28 +1,28 @@
 {
-  "app_version_code": 9,
-  "app_version_name": "2.7",
+  "app_version_code": 10,
+  "app_version_name": "2.8",
   "force_update": true,
-  "apk_url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v2.7/HEIN-Loader.apk",
+  "apk_url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v2.8/HEIN-Loader.apk",
   "changelog": "Shizuku Direct Inject + Loader & Files Auto-Update",
-  "files_version": 17,
+  "files_version": 18,
   "files": [
     {
       "name": "game_patch_4.7.0.21783.pak",
-      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v14.3/game_patch_4.7.0.21783.pak",
-      "size": 229209,
-      "sha256": "9ee132c2d65ad22bf30cd6861aaa0316da519ccd8e89169913db8e32b5cf78b2",
+      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v14.4/game_patch_4.7.0.21783.pak",
+      "size": 241097,
+      "sha256": "8a59d4e784b34ec03f1c1ade0b0ed9216c58e961f8e984a06335a7e50a2dbf61",
       "target_subpath": "Saved/Paks/"
     },
     {
       "name": "puffer_cache.dat",
-      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v14.3/puffer_cache.dat",
+      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v14.4/puffer_cache.dat",
       "size": 6511,
       "sha256": "2957e276feb0e9596434067cd5f18340785d4ff495c8dbcdff3ac5c00e5ee131",
       "target_subpath": "Saved/Paks/"
     },
     {
       "name": "puffer_session.cfg",
-      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v14.3/puffer_session.cfg",
+      "url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v14.4/puffer_session.cfg",
       "size": 37,
       "sha256": "9c4a85e172d3eef099845c3ff425bd40f153938134aa207a3fc17e5d95578ae4",
       "target_subpath": "Saved/Paks/"
