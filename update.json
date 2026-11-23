@@ -1,8 +1,8 @@
 {
-  "app_version_code": 20,
-  "app_version_name": "3.0",
+  "app_version_code": 21,
+  "app_version_name": "3.0.1",
   "force_update": true,
-  "apk_url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v3.0/HEIN-Loader.apk",
+  "apk_url": "https://github.com/heinw3031/hein-loader-cloud/releases/download/v3.0.1/HEIN-Loader.apk",
   "changelog": "Shizuku Direct Inject + Loader & Files Auto-Update",
   "files_version": 19,
   "files": [
@@ -29,3 +29,4 @@
     }
   ]
 }
+
